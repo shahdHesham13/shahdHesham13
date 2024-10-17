@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>🌱 Currently I'm focusing on:</h3>
 <ul>
   <li>Trying to maintain consistency in problem-solving</li>
-  <li>Learning Data Engineering and Big Data tools</li>
+  <li>Learning Data Engineering and Analysis</li>
 </ul>
 
 
