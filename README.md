@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <h3 align="Left">Hi (✿◡‿◡), I'm shahd</h3>
 <h3>🌱 Currently I'm focusing on:</h3>
 <ul>
-  <li>Trying to maintain consistency in problem-solving</li>
-  <li>Learning Data Engineering and Analysis</li>
+  <li>Trying to maintain consistency in problem-solving.</li>
+  <li>Learning the fundamentals of Data Engineering and Analysis.</li>
 </ul>
 
+🌳🐢 My GitHub is a reflection of my learning journey. It’s a space to document my practice, improve, and eventually take on bigger challenges as I grow in this field. I may be at the beginning, but I’m dedicated to building a strong foundation and continually growing.
 
 
